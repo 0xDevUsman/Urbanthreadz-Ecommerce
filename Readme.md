@@ -114,10 +114,3 @@ Steps:
 Feel free to reach out for hiring, collaboration, or feedback.
 
 ```
-
----
-
-✅ **Now it’s 100% Markdown-compatible** — clean, copy-paste ready, and professional.
-
-Let me know if you want the full-stack version including backend, auth, admin dashboard, and Stripe integration next!
-```
