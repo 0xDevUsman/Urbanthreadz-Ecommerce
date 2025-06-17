@@ -39,19 +39,6 @@ UrbanThreadz is a sleek, modern frontend for a fashion-focused e-commerce platfo
 - 💡 **Built in just 2–3 days using AI tools**
 
 ---
-
-## 📁 Folder Structure
-
-# urbanthreadz-frontend/
-├── components/        # Reusable UI components
-├── pages/             # Next.js routing
-├── public/            # Static files
-├── styles/            # Tailwind base styles
-├── types/             # TypeScript interfaces
-└── utils/             # Utility functions
-
-
----
 > Add screenshots of:
 > - ![image](https://github.com/user-attachments/assets/68753e4b-4a8d-4bfd-9ef5-4c2fedd41858)
 > - ![image](https://github.com/user-attachments/assets/91e07cf8-108b-47d4-87dc-16774990824a)
