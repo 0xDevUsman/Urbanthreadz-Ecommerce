@@ -1,8 +1,3 @@
-You're absolutely right, Usman! Those parts should've been written fully in proper Markdown syntax for consistency and copy-paste readiness—especially since it's for a `README.md` file. Let me fix that for you below with everything in pure Markdown formatting.
-
----
-
-```markdown
 # 🧢 UrbanThreadz – Trendy Streetwear E-commerce (Frontend)
 
 UrbanThreadz is a sleek, modern frontend for a fashion-focused e-commerce platform. Tailored for a young, style-conscious audience (18–35), the site delivers a clean UI, responsive layout, and smooth shopping experience — all built in just **2–3 days using AI tools** to supercharge development.
@@ -47,9 +42,7 @@ UrbanThreadz is a sleek, modern frontend for a fashion-focused e-commerce platfo
 
 ## 📁 Folder Structure
 
-```
-
-urbanthreadz-frontend/
+# urbanthreadz-frontend/
 ├── components/        # Reusable UI components
 ├── pages/             # Next.js routing
 ├── public/            # Static files
@@ -57,17 +50,13 @@ urbanthreadz-frontend/
 ├── types/             # TypeScript interfaces
 └── utils/             # Utility functions
 
-````
 
 ---
-
-
 > Add screenshots of:
-> - 🏠 Homepage  
-> - 👕 Product Cards  
-> - 📱 Mobile View  
-> - 🛒 Cart & Checkout
-
+> - ![image](https://github.com/user-attachments/assets/68753e4b-4a8d-4bfd-9ef5-4c2fedd41858)
+> - ![image](https://github.com/user-attachments/assets/91e07cf8-108b-47d4-87dc-16774990824a)
+> - ![image](https://github.com/user-attachments/assets/c602a60b-9e92-4f8f-a28b-1d86fd18563e)
+> - ![image](https://github.com/user-attachments/assets/2bfed29d-f0d3-4204-bcb3-2e3b6a98240c)
 ---
 
 ## 🚀 Getting Started
