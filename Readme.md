@@ -41,8 +41,10 @@ UrbanThreadz is a sleek, modern frontend for a fashion-focused e-commerce platfo
 ---
 > - ![image](https://github.com/user-attachments/assets/68753e4b-4a8d-4bfd-9ef5-4c2fedd41858)
 > - ![image](https://github.com/user-attachments/assets/91e07cf8-108b-47d4-87dc-16774990824a)
-> - ![image](https://github.com/user-attachments/assets/c602a60b-9e92-4f8f-a28b-1d86fd18563e)
+> - ![image](https://github.com/user-attachments/assets/73c51276-4d11-4914-bb41-039b1c4d3237)
 > - ![image](https://github.com/user-attachments/assets/2bfed29d-f0d3-4204-bcb3-2e3b6a98240c)
+> - ![image](https://github.com/user-attachments/assets/18cdfa5f-2f09-4422-984d-4e00dfa495af)
+> - ![image](https://github.com/user-attachments/assets/c602a60b-9e92-4f8f-a28b-1d86fd18563e)
 ---
 
 ## 🚀 Getting Started
