@@ -112,5 +112,3 @@ Steps:
 
 **Made with ❤️ by [Usman Ali](https://github.com/0xDevUsman)**
 Feel free to reach out for hiring, collaboration, or feedback.
-
-```
