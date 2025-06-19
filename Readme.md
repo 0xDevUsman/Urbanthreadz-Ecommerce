@@ -72,7 +72,7 @@ npm run dev
 yarn dev
 ```
 
-Visit [http://localhost:3000](http://localhost:3000) to see it live.
+Visit [urbanthreadz](https://urbanthreadz.vercel.app) to see it live.
 
 ---
 
