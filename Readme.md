@@ -3,7 +3,7 @@
 UrbanThreadz is a sleek, modern frontend for a fashion-focused e-commerce platform. Tailored for a young, style-conscious audience (18–35), the site delivers a clean UI, responsive layout, and smooth shopping experience — all built in just **2–3 days using AI tools** to supercharge development.
 
 ---
-Visit [urbanthreadz](https://urbanthreadz.vercel.app) to see it live.
+Visit [urbanthreadz](https://urbanthreadz.vercel.app/) to see it live.
 
 ## 🎯 Project Overview
 
